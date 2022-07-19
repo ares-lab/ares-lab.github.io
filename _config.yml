@@ -17,7 +17,7 @@
 title: ARES Lab
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Part of the Center for Clinical Epidemiology and Biostatistics at the University of Pennsylvania.
+  The Antimicrobial Resistance, Healthcare Epidemiology, and Antimicrobial Stewardship Research Collaborative (ARES).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ares-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
